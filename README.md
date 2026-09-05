@@ -1,5 +1,7 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?             type=waving&color=0:6a11cb,100:2575fc&height=220&section=header&text=Patrick%20Nicezi&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Building%20cool%20stuff%20with%20code&descSize=18&descColor=ffffff"/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=220&section=header&text=Patrick%20Nicezi&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Building%20cool%20stuff%20with%20code&descSize=18&descColor=ffffff"/>
+
 </div>
 
 <div align="center">
@@ -52,13 +54,14 @@ const patrick = {
 ### 🐍 Contribution Graph
 
 <div align="center">
-</picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/patrick0806/patrick0806/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/patrick0806/patrick0806/output/github-contribution-grid-snake.svg" />
     <img alt="github-snake" src="https://raw.githubusercontent.com/patrick0806/patrick0806/output/github-contribution-grid-snake.svg" />
   </picture>
 </div>
+
+> 💡 **Tip:** To enable the snake animation, create a repo named `patrick0806/patrick0806` with a GitHub Action that generates the snake SVG (see [github-snake](https://github.com/Platane/snk)).
 
 ---
 
