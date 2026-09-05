@@ -61,8 +61,6 @@ const patrick = {
   </picture>
 </div>
 
-> 💡 **Tip:** To enable the snake animation, create a repo named `patrick0806/patrick0806` with a GitHub Action that generates the snake SVG (see [github-snake](https://github.com/Platane/snk)).
-
 ---
 
 ### 📫 Connect with me
