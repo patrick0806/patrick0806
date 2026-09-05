@@ -46,18 +46,7 @@ const patrick = {
 ### 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/patrick0806">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=patrick0806&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patrick0806&layout=compact&langs_count=8&theme=tokyonight&border_radius=10"/>
-  </a>
-</div>
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=patrick0806&theme=tokyonight&border_radius=10" alt="GitHub Streak Stats"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=patrick0806&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
 </div>
 
 ---
@@ -71,8 +60,6 @@ const patrick = {
     <img alt="github-snake" src="https://raw.githubusercontent.com/patrick0806/patrick0806/output/github-contribution-grid-snake.svg" />
   </picture>
 </div>
-
-> 💡 **Tip:** To enable the snake animation, create a repo named `patrick0806/patrick0806` with a GitHub Action that generates the snake SVG (see [github-snake](https://github.com/Platane/snk)).
 
 ---
 
